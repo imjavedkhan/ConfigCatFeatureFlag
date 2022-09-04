@@ -1,3 +1,7 @@
+# Build using Circle CI
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/imjavedkhan/ConfigCatFeatureFlag/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/imjavedkhan/ConfigCatFeatureFlag/tree/master)
+
 # ConfigCatFeatureFlag
 
 This application is demo of feature flag concept using ConfigCat(https://configcat.com/).
